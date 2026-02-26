@@ -69,7 +69,7 @@ I am only asking whether this situation corresponds to a known limitation of obs
 
 ## Illustrative Figure
 
-![Two measured outputs with apparent single-channel events despite stable multi-output agreement](two-measured-outputs.png)
+<img width="1378" height="688" alt="two-output-observability" src="https://github.com/user-attachments/assets/d81f9e4e-5f32-4312-bf7c-d4b997e9acca" />
 
 Top panel: Two measured outputs (m1(t) in blue, m2(t) in orange) from the same underlying stable oscillatory system. Both channels show high coherence and no visible regime shift.
 
