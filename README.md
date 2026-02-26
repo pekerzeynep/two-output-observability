@@ -66,3 +66,13 @@ I am not claiming a new theory here.
 I am only asking whether this situation corresponds to a known limitation of observability or state reconstruction in nonlinear systems.
 
 ---
+
+## Illustrative Figure
+
+![Two measured outputs with apparent single-channel events despite stable multi-output agreement](two-measured-outputs.png)
+
+Top panel: Two measured outputs (m1(t) in blue, m2(t) in orange) from the same underlying stable oscillatory system. Both channels show high coherence and no visible regime shift.
+
+Bottom panel: Using only m1(t) triggers repeated apparent 'transitions' (red vertical lines), while the two-output agreement (gray shading) indicates no system-like change – phase and amplitude relations remain stable throughout.
+
+The purpose of this figure is only to illustrate the key observation: persistent event detections in a single channel can coexist with invariant inter-channel structure.
